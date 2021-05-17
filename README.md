@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I am <a href="https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw">Sashking</a> 👋</h1>
+</br>
 <h3>I am a Developer and Student!</h1>
-<br>
 
-- 🔭 Currently I am working on a Discord Bot
-- 🌱 I am learning new things all the time
-- 👨‍🎓 I live in Czech Republic
-- 💫 2021 Goal: Start making good videos and make a great discord bot!
-- ⚡ Fun fact: I love to draw and listen to music!
+-   🔭 Currently I am working on a Discord Bot
+-   🌱 I am learning new things all the time
+-   👨‍🎓 I live in Czech Republic
+-   💫 2021 Goal: Start making good videos and make a great discord bot!
+-   ⚡ Fun fact: I love to draw and listen to music!
 
 <h3>Connect with me</h3>
 sashking ♪#0001</br>
