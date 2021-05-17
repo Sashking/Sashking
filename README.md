@@ -17,5 +17,5 @@ sashking ♪#0001</br>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sashking&show_icons=true&hide_border=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashking&show_icons=true&hide_border=true&layout=compact&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashking&hide_border=true&layout=compact&theme=radical" />
 </a>
