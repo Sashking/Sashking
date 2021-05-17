@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I am Alex - aka <a href="https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw">Sashking</a> 👋</h1>
-
-<h1 align="center">I am a Developer and Student!</h1>
+<h3 align="center">I am a Developer and Student!</h1>
+<br>
 
 - 🔭 Currently I am working on a Discord Bot
 - 🌱 I am learning new things all the time
