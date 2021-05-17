@@ -1,4 +1,4 @@
-<center> <h1>Hi there, I am Alex - aka [Sashking](https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw) 👋</h1> </center>
+<h1 align="center">Hi there, I am Alex - aka [Sashking](https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw) 👋</h1>
 
 ## I am a Developer and Student!
 - 🔭 Currently I am working on a Discord Bot
