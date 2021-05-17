@@ -1,4 +1,5 @@
-### :-: Hi there, I am Alex - aka [Sashking](https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw) 👋
+### Hi there, I am Alex - aka [Sashking](https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw) 👋
+:-:
 
 ## I am a Developer and Student!
 - 🔭 Currently I am working on a Discord Bot
