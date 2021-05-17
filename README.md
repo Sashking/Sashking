@@ -1,4 +1,4 @@
-### Hi there, I am Alex - aka [Sashking](https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw) 👋
+### :-: Hi there, I am Alex - aka [Sashking](https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw) 👋
 
 ## I am a Developer and Student!
 - 🔭 Currently I am working on a Discord Bot
@@ -9,9 +9,10 @@
 
 ### Connect with me:
 [My YouTube Channel](https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw)
-[Discord server](https://discord.gg/ruH6f74Cjd)
-
 </br>
+[Discord server](https://discord.gg/ruH6f74Cjd)
+</br>
+Or contact me directly on discord: sashking ♪#0001
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sashking&show_icons=true&hide_border=true&theme=radical" />
