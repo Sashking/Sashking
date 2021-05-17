@@ -11,5 +11,11 @@
 [<img align="left" alt="Sashking | YouYube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw)
 [<img align="left" alt="Sashking | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/ruH6f74Cjd)
 
-<img align="left" alt="Sashking's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sashking&show_icons=true&hide_border=true&theme=radical" />
-<img align="left" alt="Sashking's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashking&layout=compact&theme=radical" />
+</br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sashking&show_icons=true&hide_border=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashking&layout=compact&theme=radical" />
+</a>
