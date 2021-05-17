@@ -1,4 +1,4 @@
-### Hi there, I am Alex - aka [Sashking][https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw] 👋
+### Hi there, I am Alex - aka [Sashking](https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw) 👋
 
 ## I am a Developer and Student!
 - 🔭 Currently I am working on a Discord Bot
@@ -9,6 +9,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Sashking | YouYube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw)
-<img align="left" alt="Sashking | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[https://discord.gg/ruH6f74Cjd]
+[<img align="left" alt="Sashking | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/ruH6f74Cjd)
 
-<img align="left" alt="Sashking's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sashking&show_icons=true&hide_border=true" />
+<img align="left" alt="Sashking's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sashking&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Sashking's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashking&layout=compact&theme=radical" />
