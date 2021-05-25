@@ -10,7 +10,7 @@
 <h3>Connect with me</h3>
 sashking ♪#0001</br>
 <a href="https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw">My YouTube Channel</a></br>
-<a href="https://discord.gg/ruH6f74Cjd">My Discord Server</a></br>
+<a href="https://discord.gg/KTD7u6BUNd">My Discord Server</a></br>
 
 <h3>Stats</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
