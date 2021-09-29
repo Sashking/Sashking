@@ -8,7 +8,7 @@
 -   ⚡ Fun fact: I love to draw and listen to music!
 
 <h3>Connect with me</h3>
-sashking ♪#0001</br>
+<a href="https://discord.com/users/512670031247573005">sashking#7298</a></br>
 <a href="https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw">My YouTube Channel</a></br>
 <a href="https://discord.gg/KTD7u6BUNd">My Discord Server</a></br>
 
