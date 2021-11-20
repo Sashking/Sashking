@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am <a href="https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw">Sashking</a> 👋</h1>
+<h1 align="center">Hi there, I am <a href="https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw">regeX</a> 👋</h1>
 <h3>I am a Developer and Student!</h1>
 
 -   🔭 Currently I am working on a Discord Bot
