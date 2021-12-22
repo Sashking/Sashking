@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I am <a href="https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw">regeX</a> 👋</h1>
-<h3>I am a Developer and Student!</h1>
+<h3>I am a developer and a student!</h1>
 
--   🔭 Currently I am working on a Discord Bot
 -   🌱 I am learning new things all the time
 -   👨‍🎓 I live in Czech Republic
 -   💫 2021 Goal: Start making good videos and make a great discord bot!
