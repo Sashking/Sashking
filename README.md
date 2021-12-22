@@ -7,10 +7,10 @@
 -   💫 2021 Goal: Start making good videos and make a great discord bot!
 -   ⚡ Fun fact: I love to draw and listen to music!
 
-<h3>Connect with me</h3>
-<a href="https://discord.com/users/512670031247573005">sashking#7298</a></br>
-<a href="https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw">My YouTube Channel</a></br>
-<a href="https://discord.gg/KTD7u6BUNd">My Discord Server</a></br>
+<h3>Contact me</h3>
+<a href="https://discord.com/users/512670031247573005">regeX#2850</a></br>
+<a href="https://www.youtube.com/channel/UCuy4Q-mmXH6LodRExXvVGLw">My YouTube channel</a></br>
+<a href="https://discord.gg/KTD7u6BUNd">My discord server</a></br>
 
 <h3>Stats</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
