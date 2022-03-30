@@ -9,7 +9,6 @@
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/Java-292929?style=for-the-badge&logo=Java&logoColor=e91f32" />
     <img alt="CSharp" src="https://img.shields.io/badge/CSharp-953dac?&style=for-the-badge&logo=CSharp&logoColor=white" />
-    
 </p>
 
 # 🛠 Software I use
