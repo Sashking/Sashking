@@ -14,7 +14,7 @@
 
 # 🛠 Software I use
 <p align="center">
-    <img alt="VSCode" src="https://img.shields.io/badge/VSCode%20-24adf3?&style=for-the-badge&logo=visual-studio-code&logoColor=black" />
+    <img alt="VSCode" src="https://img.shields.io/badge/VSCode%20-24adf3?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img alt="Webstorm" src="https://img.shields.io/badge/Webstorm%20-4B32C3?&style=for-the-badge&logo=Webstorm&logoColor=white" />
     <img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij Idea%20%20-fe315d?&style=for-the-badge&logo=Intellij-Idea&logoColor=white" />
 </p>
