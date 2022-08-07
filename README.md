@@ -1,6 +1,6 @@
 # 👨‍💻 About me
 
-* **My name:** Oleksandr
+* **My name:** Alex
 * **My main project:** https://gml.cz/uzel/
 
 # ⌨ My skills
