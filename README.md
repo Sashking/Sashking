@@ -12,7 +12,7 @@
 <br>
 
 <p align="center"><b><samp> - 
- <a href="https://www.reddit.com/user/Altruistic_Trifle735">🌙 reddit </a>
+ <a href="https://discord.gg/pQVSqnTdZm">🌙 server </a>
  ~
  <a href="https://discord.com/users/512670031247573005"> ✨ discord </a>
  ~
