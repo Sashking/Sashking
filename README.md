@@ -6,7 +6,7 @@
  <p align="center">
       Hello, I am Sashking (Alex)<br>
       <br>
-      <samp>I am a discord bot dev, js fan and overall an IT enthusiast<br></samp>
+      <samp>I am a discord bot dev, next.js fan and overall an IT enthusiast<br></samp>
   </p>
 
 <br>
